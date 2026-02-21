@@ -2,7 +2,7 @@
 Hello guys, my name is Syrup.  
 This is where I share some of the projects I’ve been working on.  
 I'm Interested in AI and cybersecurity.  
-I'm still learning and improving, so feel free to explore!  
+I'm still learning and improving, so feel free to explore!
 ![](https://raw.githubusercontent.com/Syrup2718/Syrup2718/output/github-contribution-grid-snake.svg)
 
 ### My Contact ‎₍^..^₎ 𐒡
@@ -12,6 +12,8 @@ I'm still learning and improving, so feel free to explore!
 
 ## The Project I made
 - [**Syrup And Shrimp News**](https://github.com/Syrup2718/Syrup_and_Shrimp_News) - A Neutral, Fair, and Objective News Source.  
+- BerryQuant - An Easy Application for TaiwanStock.
+- MiniSyrup - A Small Robot for Companionship.
 
 
 
