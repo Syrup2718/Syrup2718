@@ -1,7 +1,7 @@
 ## Welcome ✧*｡٩(ˊᗜˋ*)و✧*｡
 Hello guys, my name is Syrup.  
 This is where I share some of the projects I’ve been working on.  
-I'm Interested in AI and cybersecurity.  
+I'm Interested in AI, cybersecurity and Robotic.  
 I'm still learning and improving, so feel free to explore!
 ![](https://raw.githubusercontent.com/Syrup2718/Syrup2718/output/github-contribution-grid-snake.svg)
 
