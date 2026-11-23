@@ -16,23 +16,24 @@ I'm still learning and improving, so feel free to explore!
 - MiniSyrup - A Small Robot for Companionship.
 
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup2718&layout=donut&langs_count=6&theme=buefy&bg_color=00000000&title_color=AB8ACB&text_color=9575B2&hide_border=true&card_width=400"
-        width="400"
-        alt="Top 6 Languages"
-      />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Syrup2718&show_icons=true&theme=buefy&bg_color=00000000&title_color=AB8ACB&text_color=9575B2&icon_color=C5A3E0&hide_border=true"
-        width="400"
-        alt="GitHub Stats"
-      />
-    </td>
-  </tr>
-</table>
+
+<h3 align="center">✦ GitHub Statistics ✦</h3>
+
+<p align="center">
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup2718&layout=donut&langs_count=6&hide_title=true&theme=buefy&bg_color=00000000&text_color=9575B2&hide_border=true"
+    height="210"
+    alt="Top 6 Languages"
+  />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=Syrup2718&show_icons=true&hide_title=true&line_height=30&theme=buefy&bg_color=00000000&text_color=9575B2&icon_color=C5A3E0&hide_border=true"
+    height="210"
+    alt="GitHub Stats"
+  />
+</p>
+
+
 
 
