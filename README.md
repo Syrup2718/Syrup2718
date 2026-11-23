@@ -16,4 +16,16 @@ I'm still learning and improving, so feel free to explore!
 - MiniSyrup - A Small Robot for Companionship.
 
 
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syrup2718&layout=donut&langs_count=6&theme=buefy&bg_color=00000000&title_color=AB8ACB&text_color=9575B2&hide_border=true"
+    height="220"
+    alt="Most Used Languages"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Syrup2718&show_icons=true&theme=buefy&bg_color=00000000&title_color=AB8ACB&text_color=9575B2&icon_color=C5A3E0&hide_border=true"
+    height="220"
+    alt="GitHub Stats"
+  />
+</div>
 
