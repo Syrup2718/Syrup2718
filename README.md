@@ -12,7 +12,7 @@ I'm still learning and improving, so feel free to explore!
 
 ## The Project I made
 - [**Syrup And Shrimp News**](https://github.com/Syrup2718/Syrup_and_Shrimp_News) - A Neutral, Fair, and Objective News Source.  
-- BerryQuant - An Easy Application for TaiwanStock.
+- [**winproladder-mcp**](https://github.com/Syrup2718/winproladder-mcp) - MCP tools for generating, parsing, and validating FATEK WinProLadder .ldr files.
 - MiniSyrup - A Small Robot for Companionship.
 
 
